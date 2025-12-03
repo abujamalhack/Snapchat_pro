@@ -1,0 +1,19 @@
+# Core
+python-telegram-bot==20.7
+aiohttp==3.9.1
+aiofiles==23.2.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Media Processing
+Pillow==10.1.0
+opencv-python-headless==4.8.1.78
+moviepy==1.0.3
+numpy==1.24.3
+
+# Utilities
+redis==5.0.1
+psutil==5.9.6
+pyyaml==6.0.1
+python-dotenv==1.0.0
+async-timeout==4.0.3
